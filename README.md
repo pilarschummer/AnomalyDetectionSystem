@@ -15,7 +15,7 @@ The requirements and steps to execute the code are as follows:
 
 3. **Download the code:** To perform this step you can run the following command which clones the repository:
     ```bash
-    git clone https://github.com/user/repository-name.git
+    git clone https://github.com/pilarschummer/AnomalyDetectionSystem.git
     ```
 
 4. **Run the code:** Depending on the desired Python script to be executed, the commands are as follows:
